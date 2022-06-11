@@ -1,3 +1,19 @@
+# CLONE DO DISNEY PLUS
+
+Reproduzi a interface da Disney + com o objetivo de fixar os conhecimentos em React, utilizando styled components, e implementando novas bibliotecas.
+
+## Available Scripts
+
+In the project directory, you can run:
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
