@@ -2,9 +2,8 @@
 
 Reproduzi a interface da Disney + com o objetivo de fixar os conhecimentos em React, utilizando styled components, e implementando novas bibliotecas.
 
-## Available Scripts
+## NESSE PROJETO, FOI UTILIZADO:
 
-In the project directory, you can run:
 
 
 
