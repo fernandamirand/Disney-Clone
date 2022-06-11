@@ -4,6 +4,9 @@ Reproduzi a interface da Disney + com o objetivo de fixar os conhecimentos em Re
 
 ## NESSE PROJETO, FOI UTILIZADO:
 
+📍 ReactJs
+📍 Styled Components
+
 
 
 
